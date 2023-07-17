@@ -1,11 +1,7 @@
-<a href="https://i.imgur.com/1YtRT6g.png">
-  <img align="center" src="https://i.imgur.com/1YtRT6g.png" />
-</a>
-<br>
-<h1 align="center">Hi 👋</h1>
 
-- 🔭 I’m currently working on [Mini Aimer](https://miniaimer.com)
-- 📫 How to reach me **contact@miniaimer.com**
+<h1 align="center">Hi, My Name: Nguyen Dinh Huy 👋</h1>
+
+
 
 <br><br>
 <h2 align="left">My commonly used programming languages:</h2>
